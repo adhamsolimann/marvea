@@ -1,0 +1,58 @@
+Terms and Conditions of marvea
+
+
+Introduction:
+These terms and conditions (the "Terms") govern your use of the Augmented Reality application (the "Application"). Please read these Terms carefully before using the Application. By accessing or using the Application, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Application.
+
+License to Use the Application:
+Subject to your compliance with these Terms, the Application grants you a limited, non-exclusive, non-transferable, non-sublicensable license to access and use the Application for your personal, non-commercial use.
+
+Access to Location and Camera:
+The Application requires access to your device's location and camera to visualise data of renewable energy facilities around you as annotation nodes. You grant permission for the Application to access your location and camera when you install and use the Application.
+
+User Data:
+The Application does not save any of your user data. The data collected through the use of the Application is only used for visualisation purposes and is not stored or shared with any third parties.
+
+Changes to the Application:
+The Application may be updated from time to time for bug fixes, enhancements, or other improvements. Your use of the Application is subject to the version of the Application that is available at the time of your use.
+
+Termination:
+The Application may, in its sole discretion, at any time terminate or suspend all or a portion of the Application, or your use of all or a portion of the Application, with or without notice and with or without cause.
+
+Disclaimer of Warranty:
+The Application is provided "as is" and "as available" and without warranty of any kind, express or implied. The Application makes no representations or warranties of any kind, express or implied, as to the operation of the Application or the information, content, materials, or products included on the Application. You expressly agree that your use of the Application is at your sole risk.
+
+Limitation of Liability:
+In no event shall the Application be liable for any damages (including, without limitation, incidental and consequential damages, personal injury/wrongful death, lost profits, or damages resulting from lost data or business interruption) resulting from the use of or inability to use the Application, or for any other claim related in any way to your use of the Application, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Application.
+
+General Terms:
+These Terms constitute the entire agreement between you and the Application and govern your use of the Application. These Terms replace all prior agreements between you and the Application regarding the use of the Application. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced. The Application's failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing.
+
+
+
+Privacy Policy:
+
+Introduction:
+We are committed to protecting the privacy of our users and are dedicated to using information provided to us through our Augmented Reality application (the "Application") in a responsible manner. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of information collected through the Application.
+
+Information Collection and Use:
+The Application requires access to your device's location and camera to visualise data of renewable energy facilities around you as annotation nodes. The data collected through the use of the Application is not saved anywhere and is used solely for visualisation purposes.
+
+Sharing of Information:
+We do not share any information collected through the Application with any third parties. The information collected is used solely for the purpose of providing the Application's services to you.
+
+Security Measures:
+We implement reasonable and appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These measures include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+Children's Privacy:
+The Application is not intended for children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under the age of 13 has provided us with personal information, we will delete such information from our systems.
+
+Changes to this Privacy Policy:
+We may update this Privacy Policy from time to time. If we make any changes, we will post the updated Privacy Policy on this page and, if appropriate, notify you by email or through the Application. Your continued use of the Application after any changes to this Privacy Policy will indicate your acceptance of the revised Policy.
+
+Contact Information:
+If you have any questions or concerns regarding this Privacy Policy, please contact us at [INSERT CONTACT INFORMATION HERE].
+
+
+
+
